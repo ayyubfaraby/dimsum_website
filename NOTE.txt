@@ -1,0 +1,2 @@
+php artisan make:component (Navbar) --view
+* --view : dont make a file Components on app/Components
